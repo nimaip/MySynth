@@ -3,7 +3,7 @@ Applications of the Java Synth
 
 Included Methods:
 			playChromatic(key) - plays all notes in one octave starting from key
-   		playMajorScale("F", 400) - plays major scale of given key (each note for 400ms)
+   		        playMajorScale("F", 400) - plays major scale of given key (each note for 400ms)
 			playMinorScale("C", 400) - plays minor scale of given key (each note for 400ms)
 			playRand(20) - Random song
 			playRandScale(30) - Random song with all notes in a key
